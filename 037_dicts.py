@@ -16,8 +16,9 @@
 # We'll use that example for a programming dictionary too:
 
 my_dictionary = {
-  "String": "A sequence of characters",
-  "List": "A sequence of any item",
+    "String": "A sequence of characters",
+    "List": "A sequence of any item",
+    "Dictionary": "A collection of key/value pairs"
 }
 
 # Note that:
